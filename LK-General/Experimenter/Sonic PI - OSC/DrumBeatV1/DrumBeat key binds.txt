@@ -1,0 +1,15 @@
+1-6 skift tempo, højere tal hurtigere tempo
+a,s skift instrument, første række
+d,f skift instrument, anden række
+g,h skift instrument, tredje række
+j,k skift instrument, fjerde række
+spacebar slår musik til/fra
+enter slår note til/fra
+piletasterne bruges til at vælge notes
+
+
+Python Programmet til at styre Drumbeat over OSC er lavet af en STU elev der har været i praktik i SHD 
+i efteråret/vinter 2021-2022. Han har ikke fået afsluttet 9kl.
+
+Prøv at få startet Drumbeat op i Sonic PI og efterfølgende "DrumBeat med GUI - pygame.py" i Thonny.
+
